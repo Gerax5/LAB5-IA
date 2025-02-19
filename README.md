@@ -4,5 +4,5 @@
 * Angela Garcia 22869
 ## Links
 
-Video:
+Video:  
 Repo: https://github.com/Gerax5/LAB5-IA
